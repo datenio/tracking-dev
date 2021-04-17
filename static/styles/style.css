@@ -1,0 +1,8 @@
+.control-container{
+    width: 200px;
+}
+
+.control{
+    display: flex;
+    justify-content: space-evenly;
+}
